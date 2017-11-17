@@ -9,9 +9,11 @@ Input data was:
 * Random generated element posistion
 
 Each mesaured time is an average of 40 measurements.
-Garbage collector working time was excluded from resulting measurement.
-Each measurement was performed after the warming up.
 
+Garbage collector working time was excluded from resulting measurement.
+
+Each measurement was performed after the warming up.
+```
 BENCHMARKING RESULTS (Simple scala sorting)
 Size 82000, time: 24.0322071 ms
 Size 79500, time: 23.271920150000003 ms
@@ -46,3 +48,4 @@ Size 9500, time: 1.7411859499999995 ms
 Size 7000, time: 1.2699659249999995 ms
 Size 4500, time: 1.04703255 ms
 Size 2000, time: 0.64185705 ms
+```
