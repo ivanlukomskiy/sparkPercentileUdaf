@@ -1,2 +1,1 @@
-# sparkPercentileUdaf
-User defined aggregate function to calculate percentiles with Spark
+Project that contains Spark's custom User Defined Functions
