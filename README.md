@@ -24,6 +24,6 @@ Other two benchmarking reports was performed on the same machine in the same con
 
 ## License
 
-MIT License
+[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 This code was developed by me during my work in [SBDA Group](http://sbdagroup.com/)
